@@ -1,4 +1,4 @@
-FROM hangy/httpd-alpine-perl-extended
+FROM hangy/httpd-alpine-perl-extended:0.1
 
 #  Fetch mod_perl source, build and install it
 #  Note: The fetch URL should be adjusted to point to a local mirror
